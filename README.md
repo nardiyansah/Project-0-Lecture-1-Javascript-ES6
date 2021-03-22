@@ -4,6 +4,9 @@ The goal of this project is to practice JavaScript and its paradigms by creating
 a TODO app. This app should be able to add TODOs and track the number of total
 TODOs as well as the number of unchecked TODOs.
 
+## My work
+![](https://github.com/nardiyansah/Project-0-Lecture-1-Javascript-ES6/blob/main/Hnet-image.gif)
+
 ## Instructions
 Inside of [index.html](/index.html), you'll find some starter HTML. You shouldn't
 need to edit this file at all. Open this file on your computer into any browser
